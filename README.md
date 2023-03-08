@@ -3,9 +3,14 @@ This is a template for getting started with Next Js and wallets. It uses next js
 ## Getting Started
 
 -npm install
+
 -npm run dev
+
 -localhost:3000
 ```
+
+OVERVIEW
+
 _app.js
 contains all default wallet adapter network code.
 
